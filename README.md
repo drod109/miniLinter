@@ -1,0 +1,2 @@
+# miniLinter
+String histogram
